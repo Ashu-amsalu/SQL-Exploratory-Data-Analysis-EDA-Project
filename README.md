@@ -1,2 +1,2 @@
 # SQL-Exploratory-Data-Analysis-EDA-Project
-This project showcases SQL-based exploratory data analysis on a retail business dataset. Using a star-schema data warehouse (with sales facts and supporting dimension tables), the project answers 23 real-world business questions around customers, products, and sales.
+This portfolio project showcases a comprehensive set of SQL queries designed to perform data exploration and analytics on a retail business dataset that includes customer, product, and sales data. 

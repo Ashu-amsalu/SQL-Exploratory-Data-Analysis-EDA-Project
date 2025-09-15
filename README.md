@@ -1,6 +1,4 @@
-  # SQL-Exploratory-Data-Analysis-EDA-Project
-
-  #### Welcome to Exploratory Data Analysis (EDA) Project
+#### Welcome to Exploratory Data Analysis (EDA) Project
   This portfolio project showcases a comprehensive set of SQL queries designed to perform data exploration and analytics on a retail business dataset that includes customer, product, and sales data.
   
   ### Data Source
@@ -33,43 +31,19 @@
 
   ### Workflow
 
-  ####1. Understand Requirements
-  
-    •	Clarify the business problem or questions to answer.
-  
-    •	Identify relevant datasets (customers, sales, products, etc.).
-  
-  ####2. Data Collection
-  
-    •	Connect to the database.
-  
-    •	Explore available schemas, tables, and relationships
-
-  ####3. Data Profiling
-
-    •	Check row counts, distinct values, missing/nulls, duplicates.
-
-    •	Understand data types and constraints
-
-  ####4. Data Cleaning
-
-    •	Handle nulls, outliers and incorrect formats.
-
-    •	Standardize categorical values if needed.
-
-  ####5. Exploratory Queries
-  
-    •	Aggregate and summarize (COUNT, SUM, AVG, MIN, MAX, RANK).
+    - Understand Requirements
     
-    •	Group by key dimensions (gender, marital status, product category or subcategory, Country).
+    - Data Collection
+
+    - Data Profiling
+
+    - Data Cleaning
+
+    - Exploratory Queries
+  
+    - Documentation & Insights
+
     
-    •	Identify patterns and trends.
-
-  ####6. Documentation & Insights
-
-    •	Save queries in a structured way (by theme/question).
-
-    •	Document findings and highlight actionable insights.
     
 
 

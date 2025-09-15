@@ -39,7 +39,7 @@
 
     - Data Cleaning
 
-    - Exploratory Queries
+    - EDA Outputs
   
     - Documentation & Insights
 

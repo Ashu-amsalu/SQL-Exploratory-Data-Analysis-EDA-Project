@@ -1,47 +1,70 @@
 #### Welcome to Exploratory Data Analysis (EDA) Project
-  This portfolio project showcases a comprehensive set of SQL queries designed to perform data exploration and analytics on a retail business dataset that includes customer, product, and sales data.
-  
-  ### Data Source
-  
-  This project uses a data warehouse star schema with three main tables:    
-  
-    - gold.dim_customers (Customer dimension table),
-  
-    - gold.dim_products	(Product dimension table),
-  
-    - gold.fact_sales (Sales fact table),
-  
-  These are structured in a star schema, where fact_sales contains foreign keys to customer and product dimensions.
 
-  ### Skills Demonstrated
-  
-    •	SQL joins (INNER, LEFT JOIN)
-  
-    •	Grouping & aggregation
-  
-    •	Common Table Expressions (CTEs)
-  
-    •	Window functions (e.g., RANK(), OVER())
+ This project demonstrates the application of SQL for Exploratory Data Analysis (EDA) on a retail dataset that includes information about customers, products, and sales transactions. The analysis progresses from individual table profiling (customer, sales and product) to cross-table joins, providing a holistic view of business performance.
+ 
+The primary goal is to demonstrate how SQL can be applied to answer business questions, identify trends, and uncover insights that enable stakeholders to make data-driven decisions.
 
-    •	Date functions (DATEDIFF, GETDATE())
+### Dataset Information
+  #### Source:  
+      - This project uses a data warehouse star schema with three main tables
   
-    •	Conditional logic (CASE WHEN)
+  #### Size: 
+      - 79,178 records across 3 tables
   
-    •	Data cleansing and filtering
-
-  ### Workflow
-
-    - Understand Requirements
+  #### Tables: 
+  
+    -	gold.dim_customers (customer information)
     
-    - Data Collection
-
-    - Data Profiling
-
-    - Data Cleaning
-
-    - EDA Outputs
+    -	gold.dim_products (product information)
+    
+    -	gold.fact_sales (transaction data)
   
-    - Documentation & Insights
+  #### Timeframe:
+     - 2010-2014
+
+### Business Questions Answered
+
+    -	What is the earliest and latest order date?
+    -	What percentage of customers are male vs female?
+    -	Which products have the highest and lowest prices?
+    -	What is the distribution of order date vs. shipping date (average shipping delay)?
+    -	Which products are active based on the start date?
+      
+### Skills Demonstrated
+
+    - SQL joins (INNER, LEFT JOIN)
+    
+    - Grouping & aggregation
+    
+    - Common Table Expressions (CTEs)
+    
+    - Window functions (e.g., RANK(), OVER())
+    
+    - Date functions (DATEDIFF, GETDATE())
+    
+    - Conditional logic (CASE WHEN)
+    
+    - Data cleansing and filtering
+
+### Contributing
+
+Feel free to fork the repository and contribute improvements, optimizations, or additional analytics tasks.
+
+### License
+
+This project is licensed under the MIT License, which grants you the freedom to use, modify, and share it, provided that proper credit is given.
+
+### About me
+
+Hi there! I’m Aysheshim Amsalu, an Industrial Engineering professional passionate about leveraging data analysis to solve real-world challenges. My work focuses on transforming raw data into actionable insights that drive smarter decisions
+
+### Contact & Portfolio
+
+    - LinkedIn
+    
+    - Tableau Public
+    
+    - GitHub
 
     
     

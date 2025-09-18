@@ -18,9 +18,9 @@ The primary goal is to demonstrate how SQL can be applied to answer business que
  #### README
  ### Dataset Information
   #### Source:  
-    - This project uses a data warehouse star schema with three main tables
+     This project uses a data warehouse star schema with three main tables
   #### Size: 
-    - 79,178 records across 3 tables
+     79,178 records across 3 tables
   #### Tables: 
    -	gold.dim_customers              
    -	gold.dim_products                

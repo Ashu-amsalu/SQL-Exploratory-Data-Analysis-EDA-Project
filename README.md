@@ -1,6 +1,7 @@
 ##### Welcome to Exploratory Data Analysis (EDA) Project
 
-This project demonstrates the application of SQL for Exploratory Data Analysis (EDA) on a retail dataset that includes information about customers, products, and sales transactions. The analysis progresses from individual table profiling (customer, sales and product) to cross-table joins, providing a holistic view of business performance.
+This project demonstrates the application of SQL for Exploratory Data Analysis (EDA) on a retail dataset that includes information about customers, products, and sales transactions. 
+The analysis progresses from individual table profiling (customer, sales and product) to cross-table joins, providing a holistic view of business performance.
 
 The primary goal is to demonstrate how SQL can be applied to answer business questions, identify trends, and uncover insights that enable stakeholders to make data-driven decisions.
 

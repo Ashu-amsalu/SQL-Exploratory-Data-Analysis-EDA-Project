@@ -42,8 +42,6 @@ The primary goal is to demonstrate how SQL can be applied to answer business que
    - Conditional logic (CASE WHEN)
    - Data cleansing and filtering
 #### screenshot from Combine EDA (Join across tables)
-
- What is the average order value per customer?
  
 <img width="735" height="408" alt="Combain" src="https://github.com/user-attachments/assets/9df95cca-56fc-4302-bb20-b4eec3ffb625" />
 

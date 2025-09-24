@@ -34,6 +34,11 @@ The primary goal is to demonstrate how SQL can be applied to answer business que
   -	Which products have the highest and lowest prices?
   -	What is the distribution of order date vs. shipping date (average shipping delay)?
   -	Which products are active based on the start date?
+
+#### screenshot from Combine EDA (Join across tables)
+ 
+<img width="735" height="408" alt="Combain" src="https://github.com/user-attachments/assets/9df95cca-56fc-4302-bb20-b4eec3ffb625" />
+
 ### Skills Demonstrated
    - SQL joins (INNER, LEFT JOIN)
    - Grouping & aggregation
@@ -42,9 +47,6 @@ The primary goal is to demonstrate how SQL can be applied to answer business que
    - Date functions (DATEDIFF, GETDATE())
    - Conditional logic (CASE WHEN)
    - Data cleansing and filtering
-#### screenshot from Combine EDA (Join across tables)
- 
-<img width="735" height="408" alt="Combain" src="https://github.com/user-attachments/assets/9df95cca-56fc-4302-bb20-b4eec3ffb625" />
 
 ### License
    This project is licensed under the MIT License, which grants you the freedom to use, modify, and share it, provided that proper credit is given.
